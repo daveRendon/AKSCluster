@@ -17,9 +17,9 @@ az aks get-credentials --resource-group IntegrationMondayAKSdemo --name Integrat
 kubectl get nodes
 ```
 
-
+```
 code
-
+```
 
 
 save file as azure-vote.yaml
