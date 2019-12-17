@@ -21,8 +21,7 @@ kubectl get nodes
 code
 ```
 
-
-save file as azure-vote.yaml
+Copy the code in the file: azure-vote.yaml and save it as azure-vote.yaml
 
 ```
 kubectl apply -f azure-vote.yaml
