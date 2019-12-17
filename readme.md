@@ -13,3 +13,12 @@ az aks get-credentials --resource-group IntegrationMondayAKSdemo --name Integrat
 kubectl get nodes
 
 code
+
+
+
+//save file as azure-vote.yaml
+
+kubectl apply -f azure-vote.yaml
+
+// CTRL-C  to stop the kubectl watch process
+
